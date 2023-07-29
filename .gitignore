@@ -1,0 +1,5 @@
+.vs/
+AuthTest/bin/
+AuthTest/obj/
+AuthCommon/obj/
+AuthCommon/bin/
